@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anno Regni Caroli II regis Angliæ, Scotiæ, Franciæ, &amp; Hiberniæ tricesimo. At the Parliament begun at Westminster the eighth day of May, anno Dom. 1661, in the thirteenth year of the reign of our Soveraign Lord Charles, by the grace of God, of England, Scotland, France, and Ireland King, Defender of the Faith, &amp;c. : and by several prorogations and adjournments there continued to the 30th day of November in the 30th year of his Majesties reign, on which day the following act passed the royal assent.</title>
+            <title>Act for the more effectual preserving the Kings person and government, by disabling papists from sitting in either house of Parliament</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02955</idno>
+            <idno type="STC">Wing E1116</idno>
+            <idno type="STC">ESTC R171964</idno>
+            <idno type="EEBO-CITATION">53981514</idno>
+            <idno type="OCLC">ocm 53981514</idno>
+            <idno type="VID">180218</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02955)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180218)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2820:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Anno Regni Caroli II regis Angliæ, Scotiæ, Franciæ, &amp; Hiberniæ tricesimo. At the Parliament begun at Westminster the eighth day of May, anno Dom. 1661, in the thirteenth year of the reign of our Soveraign Lord Charles, by the grace of God, of England, Scotland, France, and Ireland King, Defender of the Faith, &amp;c. : and by several prorogations and adjournments there continued to the 30th day of November in the 30th year of his Majesties reign, on which day the following act passed the royal assent.</title>
+                  <title>Act for the more effectual preserving the Kings person and government, by disabling papists from sitting in either house of Parliament</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 3-11 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by the heir of Andrew Anderson, Printer to his most sacred Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>anno Dom. 1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title vignette: royal arms with initials "C R".</note>
+                  <note>Headpiece; initial letter.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Qualification --  Sources.</term>
+               <term>Test Act (1673)</term>
+               <term>Catholics --  Legal status, laws, etc. --  England --  17th century --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180218:1" rendition="simple:additions"/>
+            <pb facs="tcp:180218:1"/>
+            <pb facs="tcp:180218:2"/>
+            <pb facs="tcp:180218:2"/>
+            <p>Anno Regni CAROLI II. REGIS <hi>Angliae, Scotiae, Franciae</hi> &amp; <hi>Hiberniae,</hi> TRICESIMO.</p>
+            <p>At the Parliament begun at <hi>Weſtminſter</hi> the Eighth of <hi>May, Anno Dom.</hi> 1661. In the Thirteenth Year of the Reign of our Soveraign Lord <hi>CHARLES,</hi> by the Grace of GOD, of <hi>England, Scotland, France</hi> and <hi>Ireland</hi> King, Defender of the Faith, <hi>&amp;c.</hi>
+            </p>
+            <p>And by ſeveral Prorogations and Adjournments there continued to the 30th day of <hi>November,</hi> in the 30th Year of his Majeſties Reign, on which day the following Act paſſed the Royal Aſſent.</p>
+            <figure>
+               <head>C R</head>
+               <q>HONI SOIT QUI MAL Y PENSE</q>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>Edinburgh,</hi> Re-printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred Majeſty, <hi>Anno Dom.</hi> 1678.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:180218:3"/>
+            <pb n="3" facs="tcp:180218:3"/>
+            <opener>
+               <dateline>
+                  <date>Anno XXX. Caroli II. Regis.</date>
+               </dateline>
+            </opener>
+            <head>An Act for the more effectual preſerving the Kings Perſon and Government, by diſabling Papiſts from Sitting in either Houſe of Parliament.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as divers good Laws have been made for preventing the In<g ref="char:EOLhyphen"/>creaſe and Danger of Popery in this Kingdom, which have not had the deſired Effects, by rea<g ref="char:EOLhyphen"/>ſon of the free acceſs which Popiſh Recuſants have had to His Maje<g ref="char:EOLhyphen"/>ſties Court, and by rea<g ref="char:EOLhyphen"/>ſon of the Liberty which of late ſome of the Re<g ref="char:EOLhyphen"/>cuſants have had and taken to Sit and Vote in Parliament:</p>
+            <p>Wherefore, and for the Safety of His Majeſties Royal
+<pb n="4" facs="tcp:180218:4"/>Perſon and Government. Be it Enacted by the Kings moſt Excellent Majeſty, by and with the Advice and Conſent of the Lords Spiritual and Temporal, and of the Commons in this preſent Parliament aſſembled, and by the Authority of the ſame, That from and after the firſt day of <hi>December,</hi> which ſhall be in the year of our Lord God, one thouſand ſix hundred ſeventy and eight, no perſon that now is, or hereafter ſhall be a Peer of this Realm, or Member of the Houſe of Peers, ſhall Vote, or make his Proxy in the Houſe of Peers, or Sit there during any Debate in the ſaid Houſe of Peers; Nor any perſon that now is, or hereafter ſhall be a Member of the Houſe of Commons, ſhall Vote in the Houſe of Commons, or Sit there during any Debate in the ſaid Houſe of Commons, after their Speaker is choſen, untill ſuch Peer or Member ſhall from time to time reſpectively, and in manner fol<g ref="char:EOLhyphen"/>lowing, firſt take the ſeveral Oaths of Allegiance and Su<g ref="char:EOLhyphen"/>premacy, and make, ſubſcribe, and audibly repeat this Declaration following.</p>
+            <q>
+               <pb n="5" facs="tcp:180218:4"/>
+               <p>I <hi>A. B.</hi> do Solemnly and Sincerely in the preſence of God, Profeſs, Teſtifie, and Declare, <hi>That I do believe that in the Sacrament of the Lords Supper, there is not any Tranſubſtantiation of the Elements of Bread and Wine, into the Body and Bloud of Chriſt, at or after the Conſecration thereof, by any perſon whatſoever: And that the Invocation, or Adoration of the Virgin</hi> Mary, <hi>or any other Saint, and the Sacrifice of the Maſs, as they are now uſed in the Church of</hi> Rome, <hi>are Superſtitious and Idola<g ref="char:EOLhyphen"/>trous.</hi> And I do Solemnly in the preſence of God, Profeſs, Teſtifie, and Declare, That I do make this Declara<g ref="char:EOLhyphen"/>tion, and every part thereof, in the plain and ordi<g ref="char:EOLhyphen"/>nary ſenſe of the Words read unto me, as they are com<g ref="char:EOLhyphen"/>monly underſtood by <hi>Engliſh</hi> Proteſtants, without any Evaſion, Equivocation, or Mental Reſervation what<g ref="char:EOLhyphen"/>ſoever, and without any Diſpenſation already grant<g ref="char:EOLhyphen"/>ed me for this purpoſe by the Pope, or any other Au<g ref="char:EOLhyphen"/>thority or Perſon whatſoever, or without any hope of any ſuch Diſpenſation from any Perſon or Authority what<g ref="char:EOLhyphen"/>ſoever, or without thinking that I am, or can be Ac<g ref="char:EOLhyphen"/>quitted before God or Man, or Abſolved of this De<g ref="char:EOLhyphen"/>claration, or any Part thereof, although the Pope, or any other Perſon or Perſons, or Power whatſoever, ſhould Diſpenſe with, or Annul the ſame, or Declare that it was Null and Void from the beginning.</p>
+            </q>
+            <p>Which ſaid Oaths and Declaration ſhall be in this and every ſucceeding Parliament ſolemnly and publickly Made and Subſcribed betwixt the hours of Nine in the Morning, and Four in the Afternoon, by every ſuch Peer and Member of the Houſe of Peers, at the Table in the middle of the ſaid Houſe, before he take his Place in the
+<pb n="6" facs="tcp:180218:5"/>ſaid Houſe of Peers, and whilſt a full Houſe of Peers is there with their Speaker in his Place; and by every ſuch Member of the Houſe of Commons, at the Table in the middle of the ſaid Houſe, and whilſt a full Houſe of Commons is there duely ſitting with their Speaker in his Chair; and that the ſame be done in either Houſe in ſuch like order or method, as each Houſe is called over by reſpectively.</p>
+            <p>And be it further Enacted, That from, and after the ſaid Firſt day of <hi>December,</hi> every Peer of this Realm, and Member of the Houſe of Peers, and every Peer of the Kingdom of <hi>Scotland,</hi> or of the Kingdom of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> being of the Age of One and twenty Years, or upwards, not having Taken the ſaid Oaths, and Made and Subſcribed the ſaid Declaration; and every Mem<g ref="char:EOLhyphen"/>ber of the ſaid Houſe of Commons, not having as afore<g ref="char:EOLhyphen"/>ſaid Taken the ſaid Oaths, and Made and Subſcribed the ſaid Declaration; and every Perſon now, or here<g ref="char:EOLhyphen"/>after Convicted of Popiſh Recuſancy, who hereafter ſhall at any time after the ſaid Firſt day of <hi>December,</hi> come adviſedly into, or remain in the preſence of the Kings Majeſty, or Queens Majeſty, or ſhall come into the Court or Houſe where they or any of them reſide, as well during the Reign of His preſent Ma<g ref="char:EOLhyphen"/>jeſty (whoſe Life God long preſerve) as during the Reigns of any His Royal Succeſſors Kings or Queens of <hi>England,</hi> ſhall incur and ſuffer all the pains, penalties, forfeitures, and diſabilities in this Act mentioned or con<g ref="char:EOLhyphen"/>tained, unleſs ſuch Peer, Member, or Perſon ſo Con<g ref="char:EOLhyphen"/>victed, do reſpectively in the next Term after ſuch his coming or remaining, Take the ſaid Oaths, and Make and Subſcribe the ſaid Declaration in His Majeſties High Court of Chancery, between the hours of Nine and Twelve in the Forenoon.</p>
+            <p>
+               <pb n="7" facs="tcp:180218:5"/>
+And be it further Enacted by the Authority aforeſaid, That if any Perſon that now is, or hereafter ſhall be a Peer of this Realm, or Member of the Houſe of Peers, or Member of the Houſe of Commons, ſhall preſume to do any thing con<g ref="char:EOLhyphen"/>trary to this Act, or ſhall offend in any of the Caſes aforeſaid, That then every ſuch Peer and Member ſo offending, ſhall from thenceforth be deemed and adjudged a Popiſh Recu<g ref="char:EOLhyphen"/>ſant Convict to all intents and purpoſes whatſoever, and ſhall forfeit and ſuffer as a Popiſh Recuſant Convict, and ſhall be diſabled to hold or execute any Office or Place of Profit or Truſt, Civil or Military, in any of His Majeſties Realms of <hi>England</hi> or <hi>Ireland,</hi> Dominion of <hi>Wales,</hi> or Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> or in any of His Majeſties Iſlands or Foreign Plantations to the ſaid Realms belonging; and ſhall be diſabled from thenceforth to Sit, or Vote in either Houſe of Parliament, or make a Proxy in the Houſe of Peers, or to Sue or Uſe any Action, Bill, Plaint or Informa<g ref="char:EOLhyphen"/>tion in courſe of Law, or to proſecute any Suit in any Court of Equity, or to be Guardian of any Child, or Exe<g ref="char:EOLhyphen"/>cutor, or Adminiſtrator of any perſon, or capable of any Legacy or Deed of Gift; and ſhall forfeit for every wilfull Offence againſt this Act, the ſum of Five hundred pounds to be recovered and received by him or them that ſhall Sue for the ſame; and to be proſecuted by any Action of Debt, Suit, Bill, Plaint or Information in any of His Majeſties Courts at <hi>Weſtminſter,</hi> where no Eſſoign, Protection, or Wager of Law ſhall lie.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That from the ſaid Firſt day of <hi>December,</hi> it ſhall and may be lawfull to and for the Houſe of Peers, and Houſe of Commons, or either of them reſpectively, as often as they or either of them ſhall ſee occaſion, either in this preſent Parliament, or any other hereafter to be holden, to Order
+<pb n="8" facs="tcp:180218:6"/>and Cauſe all, or any of the Members of their reſpective Houſes of Parliament, openly in their reſpective Houſes of Parliament, to Take the ſaid Oaths, and to Make and Sub<g ref="char:EOLhyphen"/>ſcribe the ſaid Declaration at ſuch times, and in ſuch man<g ref="char:EOLhyphen"/>ner as they ſhall appoint. And if any Peer ſhall contrary to ſuch Order made by their ſaid Houſe, wilfully preſume to Sit therein, without Taking the ſaid Oaths, and Sub<g ref="char:EOLhyphen"/>ſcribing the ſaid Declaration, according to the ſaid Order, Every ſuch Peer or Member of the Houſe of Peers, ſo pre<g ref="char:EOLhyphen"/>ſuming to Sit, ſhall be adjudged, and is hereby declared to be uncapable and diſabled in Law to all intents and purpoſes whatſoever, to Sit in the ſaid Houſe of Peers, and give any Voice therein, either by Proxy, or otherwiſe howſoever, during that Parliament. And if any Member or Members of the Houſe of Commons, ſhall contrary to ſuch Order made by their Houſe, wilfully preſume to Sit therein, with<g ref="char:EOLhyphen"/>out Taking the ſaid Oaths, and Making and Subſcribing the ſaid Declaration, Every ſuch Member or Members of the Houſe of Commons, ſo preſuming to Sit, ſhall be ad<g ref="char:EOLhyphen"/>judged, and is hereby declared to be uncapable, and diſ<g ref="char:EOLhyphen"/>abled in Law, to all intents and purpoſes whatſoever, to Sit in the ſaid Houſe of Commons, or give any Voice therein during that Parliament.</p>
+            <p>And be it Enacted, That in every caſe where any Mem<g ref="char:EOLhyphen"/>ber or Members of the Houſe of Commons ſhall by virtue of this Act be diſabled to Sit or. Vote in the Houſe of Com<g ref="char:EOLhyphen"/>mons, Then, and in every ſuch caſe, without any further Conviction, or other Proceeding againſt ſuch Member or Members, the Place or Places for which they or any of them were Elected, is hereby declared Void, and a new Writ or Writs ſhall Iſſue out of the High Court of Chan<g ref="char:EOLhyphen"/>cery, by Warrant or Warrants from the Speaker of the Houſe of Commons for the time being, and by Order of
+<pb n="9" facs="tcp:180218:6"/>the ſaid Houſe, for the Election of a new Member or Mem<g ref="char:EOLhyphen"/>bers, to Serve in the Houſe of Commons, in the Place or Places of ſuch Member or Members ſo diſabled, to all in<g ref="char:EOLhyphen"/>tents and purpoſes, as if ſuch Member or Members were na<g ref="char:EOLhyphen"/>turally dead.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That from and after the Firſt day of <hi>December,</hi> One thou<g ref="char:EOLhyphen"/>ſand ſix hundred ſeventy and eight, every Perſon then be<g ref="char:EOLhyphen"/>ing, and who after that time ſhall be a Sworn Servant to the Kings or Queens Majeſty, not having before that time duely Taken the Oaths, and Made and Subſcribed the De<g ref="char:EOLhyphen"/>claration contained in an Act Entituled, <hi>An Act for prevent<g ref="char:EOLhyphen"/>ing Dangers which may happen from popiſh Recuſants,</hi> ſhall Take the ſaid Oaths, and Make and Subſcribe the Declara<g ref="char:EOLhyphen"/>tion before expreſſed, in His Majeſties High Court of Chan<g ref="char:EOLhyphen"/>cery, in the manner aforeſaid, either in the next Term after the ſaid Firſt day of <hi>December,</hi> or in the next Term after any ſuch Perſon ſhall be ſo Sworn a Servant, or in caſe of Lawful Impediment by Sickneſs, proved upon Oath, and allowed to be ſuch, under the Hand of the Lord Chancel<g ref="char:EOLhyphen"/>lor, or Lord Keeper for the time being, then in the next Term after ſuch Impediment removed; And if any ſuch Perſon ſhall refuſe or neglect to do the ſame, and yet after ſuch refuſal or neglect, ſhall adviſedly come into, or remain in the preſence of the Kings or Queens Majeſty, or ſhal come into the Court or Houſe where they or any of them reſide, as well during the Reign of His preſent Majeſty, as during the Reigns of His and their Royal Succeſſors, Kings or Queens of <hi>England,</hi> and every of them, Every ſuch Perſon ſhall be diſabled to hold any Place as ſuch Sworn Servant, and ſhall incur and ſuffer all the Pains, Penalties, For<g ref="char:EOLhyphen"/>feitures and Diſabilities in this Act mentioned or con<g ref="char:EOLhyphen"/>tained.</p>
+            <p>
+               <pb n="10" facs="tcp:180218:7"/>
+Provided, That nothing in this Act ſhall relate to, or have any effect upon any perſon being a Natural born Sub<g ref="char:EOLhyphen"/>ject of the King of <hi>Portugal,</hi> who now is, or hereafter ſhall be a Sworn Servant to the Queens Majeſty, not exceeding Nine in number at any one time; nor to ſuch Women-Servants as Her Majeſty ſhall under Her Hand and Seal from time to time for that purpoſe be pleaſed to nominate, the ſaid Women-Servants ſo nominated, not exceeding the number of Nine at any one time.</p>
+            <p>And be it Enacted, That during the time of Taking of the ſaid Oaths, and making and Subſcribing the ſaid Decla<g ref="char:EOLhyphen"/>ration, All other Matters and Proceedings, as well in the ſaid Houſes of Parliament, as in the ſaid Court, ſhall ceaſe; And the ſaid Oaths, Declaration, and Subſcription, together with a Schedule of the Names of the perſons who ſhall by virtue of this Act Take and Subſcribe the ſame, ſhall be Made, Entred, and Filed in Parchment Rolls from time to time, duely provided for that purpoſe by the Clerk of the Houſe of Lords, and the Clerk of the Houſe of Commons, and by the Clerk of the Petty-bag in Chancery, for the ſe<g ref="char:EOLhyphen"/>veral and reſpective uſes as aforeſaid; and none of the Peers or Members ſhall give or pay any Fee or Reward to any ſuch Clerk, above the ſum of Twelve pence for the Entry of his Taking the ſaid Oaths, and making and Sub<g ref="char:EOLhyphen"/>ſcribing the ſaid Declaration: All which Rolls reſpectively the ſaid Clerks are hereby required from time to time, with<g ref="char:EOLhyphen"/>out any Fee or Reward, to ſhew to any perſon deſiring to look upon the ſame; And the ſaid Houſe of Peers, and Houſe of Commons, and Court of Chancery, are hereby ſeverally impowred and required in the firſt place, all other Buſineſs laid aſide, to Adminiſter the ſaid Oaths, Declara<g ref="char:EOLhyphen"/>tion, and Subſcription reſpectively, as occaſion ſhall be from time to time, to all and every the perſon and perſons afore<g ref="char:EOLhyphen"/>ſaid,
+<pb n="11" facs="tcp:180218:7"/>duely demanding the ſame, according to the directi<g ref="char:EOLhyphen"/>ons, purport, and meaning of this preſent Act.</p>
+            <p>Provided alwayes, that this Act, nor any thing herein contained, ſhall extend to the prejudice of any perſon for coming into, or remaining in the preſence of the King or Queens Majeſty, who ſhall firſt have Licence ſo to do, by any Warrant under the Hands and Seals of ſix or more Privy Councellors, by Order of His Majeſties Privy Coun<g ref="char:EOLhyphen"/>cil, upon ſome urgent occaſion therein to be expreſſed, ſo as ſuch Licence exceed not the ſpace of ten days, and that the ſaid Licence be firſt Filed and put upon Record in the Office of the Petty-bag in Chancery, for any body to view without Fee or Reward, and no perſon be Licenced for above the number of thirty dayes in any one year.</p>
+            <p>Provided nevertheleſs, That if any Offender contrary to this Act, ſhall at any time after ſuch Offence take the ſaid Oaths, and make and ſubſcribe the ſaid Declaration in His Majeſties High Court of Chancery, and in the manner aforeſaid, Every ſuch perſon ſhall be from thenceforth freed and diſcharged of, and from all Seiſures, Penalties, and Loſſes which he might otherwiſe ſuſtain or bear, for or by reaſon of being a Popiſh Recuſant Convict by virtue of this Act; and ſhall be freed and diſcharged from all Diſ<g ref="char:EOLhyphen"/>abilities and Incapacities incurred thereby, ſo as ſuch Free<g ref="char:EOLhyphen"/>dom and Diſcharge extend not to reſtore any ſuch perſon to any Office or Place filled and ſupplied upon voidance by this Act, nor to any other Office, till after the expiration of one year, from the taking the ſaid Oath and making the Declaration aforeſaid, nor to make Void, or at any time Diſcharge the ſaid Forfeiture of Five hundred pounds, incurred as aforeſaid.</p>
+            <p>Provided alwayes, That nothing in this Act contained, ſhall extend to His Royal Highneſs the Duke of <hi>York.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:180218:8"/>
+            <pb facs="tcp:180218:8"/>
+            <pb facs="tcp:180218:9"/>
+            <pb facs="tcp:180218:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
